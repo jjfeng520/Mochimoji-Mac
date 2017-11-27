@@ -19,3 +19,8 @@ Mochimoji is a 2D side-scroller that incorporates facial expression recognition.
 + [Unity + Microsoft Cognitive Services](https://github.com/misslivirose/unity-cognitive-services-demos/tree/master/unity-emotion-demo) 
 + [Sorting Layers in Unity](https://unity3d.com/learn/tutorials/topics/2d-game-creation/sorting-layers)  
 + [Setting Up 2D Colliders in Unity](http://johnstejskal.com/wp/setting-up-your-characters-2d-colliders-in-unity/)   
+
+#### Downloadable Links for Mochimoji
++ [For Mac](https://drive.google.com/open?id=1QZncU55xtucjMJ-VCoV_3fl9qpvBSNFu)  
++ [For Windows, without webcam](https://drive.google.com/open?id=1G9tA9S6g7T-PputK3-eNaro9pwab_3WJ)  
++ [For Windows, with webcam](https://drive.google.com/open?id=1Rj_kjS87iexJZ1s1WgdhIp_MtmM68YI3)  
